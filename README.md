@@ -71,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # TicTacToe
 This is a simple Tic Tac Toe game built using React.  It allows two players to play the classic game with interactive UI and game logic implementation.
->>>>>>> 76a3a35a4b1d8b623bcd4c3abe5bfa229eb776e0
